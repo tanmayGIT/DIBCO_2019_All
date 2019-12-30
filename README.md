@@ -35,7 +35,7 @@ In the following section, I have mentioend the description of each folders
 
 *  DIBCO_2019_Work
      * All_Images_DIBCO_2019
-         _All the 15 images selected for DIBCO-2019 competetion_
+         (All the 15 images selected for DIBCO-2019 competetion)
      * OrigImgDataset_2  
        (The dataset of original 10 remaining images)    
      * BinImages
