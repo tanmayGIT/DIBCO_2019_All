@@ -36,6 +36,8 @@ In the following section, I have mentioend the description of each folders
 *  DIBCO_2019_Work
      * All_Images_DIBCO_2019
          _All the 15 images selected for DIBCO-2019 competetion_
+     * OrigImgDataset_2  
+       (The dataset of original 10 remaining images)    
      * BinImages
         *  dynamic_window  
              (Results of Dynamic Window based method for the images in folder **OrigImgDataset_2**)
@@ -64,8 +66,6 @@ In the following section, I have mentioend the description of each folders
         (This is the executable file of the algorithm mentioned in the following reference [2]. To run this executable you can simply double click 
         on **LCM_binarization_v1.exe** file. It will open up a GUI and then you can choose your **image** followed by the button 
         **Remove Back** followed by the button **Binarise**). Please note that this algorithm takes bit long time so please have patience ... ). 
-     * OrigImgDataset_2  
-       (The dataset of original 10 remaining images)
 
 # Reference #  
 1.  Jia, F., Shi, C., He, K., Wang, C., & Xiao, B. (2018). Degraded document image binarization using structural symmetry of strokes. Pattern Recognition, 74, 225–240. 
